@@ -1,0 +1,25 @@
+body{
+	background: #f1f1f1;
+	font-family: "Arial Narrow", Arial, sans-serif;
+}
+#content{
+	padding-top: 10px;
+	width: 700px;
+	margin: 0 auto;
+	background: white;
+}
+.header-task{
+	background-color: #f1f1f1;
+	width: 689px;
+	margin: 0 auto;
+    height: 54px;
+    margin-bottom: 20px;
+}
+.panel{
+	width: 650px;
+	margin: 0 auto;
+}
+.panel-header{
+	height: 50px;
+	background-color: #f1f1f1;
+}
